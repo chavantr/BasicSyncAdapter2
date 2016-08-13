@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\WayToParkWorkspace\\BasicSyncAdapter2\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "E:\\WayToParkWorkspace\\BasicSyncAdapter2\\Application\\src\\main\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "E:\\WayToParkWorkspace\\BasicSyncAdapter2\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "E:\\WayToParkWorkspace\\BasicSyncAdapter2\\Application\\src\\main\\res\\xml\\authenticator.xml"
+    }
+]
